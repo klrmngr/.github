@@ -5,14 +5,14 @@
 # Service account: projects/klrmngr-dev/serviceAccounts/klrmngr-mfg@klrmngr-dev.iam.gserviceaccount.com
 
 issuer: https://accounts.google.com
-subject: "102915665231011108471"
+subject: "113416879251801399115"
 
 permissions:
   actions: read
   checks: read
   contents: write
   pull_requests: write
-  issues: read
+  issues: write
   workflows: write
 
 repositories:
